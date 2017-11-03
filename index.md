@@ -6,7 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 sdfsdfsfdsfs
 
+<div>
 $$f(x) = \sum_{k=1}^{K}\alpha_{k}$$
+</div>
 
 sss
 
