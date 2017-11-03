@@ -14,7 +14,58 @@ $$f(x) = \sum_{k=1}^{K}\alpha_{k}$$
 
 aaa
 
-### Markdown
+### Introduction
+
+This project started with the idea for a rocket landing game in which the user would user three controls (thrust, torque left, torque right) to steer a rocket from a random initial position and random initial angle (±30°).  From the initial idea for the game, came the thought of applying machine learning to optimize a neural network to land the rocket.  The input consists of a 0-5 integer corresponding to 3 booleans (thrust, torque left, torque right).  The input is enumerated as follows:
+
+<div>
+$$ x_1 = x
+$$ x_2 = y
+$$ x_3 = \theta
+$$ x_4 = \dot{x]
+$$ x_5 = \dot{y}
+$$ x_6 = \dot{\theta}
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### END HERE
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -40,10 +91,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sjellio1/sjellio1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
