@@ -19,17 +19,31 @@ aaa
 This project started with the idea for a rocket landing game in which the user would user three controls (thrust, torque left, torque right) to steer a rocket from a random initial position and random initial angle (±30°).  From the initial idea for the game, came the thought of applying machine learning to optimize a neural network to land the rocket.  The input consists of a 0-5 integer corresponding to 3 booleans (thrust, torque left, torque right).  The input is enumerated as follows:
 
 
-<div> $$ x_1 = x </div>
-<div> $$ x_2 = y </div>
-<div> $$ x_3 = \theta </div>
-<div> $$ x_4 = \dot{x] </div>
-<div> $$ x_5 = \dot{y} </div>
-<div> $$ x_6 = \dot{\theta} </div>
+<div>
+  $$ x_1 = x
+</div>
+<div>
+  $$ x_2 = y
+</div>
+<div>
+  $$ x_3 = \theta
+</div>
+<div>
+  $$ x_4 = \dot{x]
+</div>
+<div>
+  $$ x_5 = \dot{y}
+</div>
+<div>
+  $$ x_6 = \dot{\theta}
+</div>
 
 
 
 
 ### The Model
+
+<img src="https://github.com/sjellio1/sjellio1.github.io/blob/master/_assets/model.png">
 
 ### Analysis
 
