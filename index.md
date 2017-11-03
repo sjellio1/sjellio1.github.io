@@ -1,6 +1,6 @@
 ## MAE 598 Project
 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 You can use the [editor on GitHub](https://github.com/sjellio1/sjellio1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
