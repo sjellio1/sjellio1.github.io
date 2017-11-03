@@ -22,18 +22,23 @@ This project started with the idea for a rocket landing game in which the user w
 <div>
 $$ x_1 = x
 </div>
+
 <div>
 $$ x_2 = y
 </div>
+
 <div>
 $$ x_3 = \theta
 </div>
+
 <div>
 $$ x_4 = \dot{x]
 </div>
+
 <div>
 $$ x_5 = \dot{y}
 </div>
+
 <div>
 $$ x_6 = \dot{\theta}
 </div>
