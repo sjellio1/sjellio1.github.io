@@ -48,7 +48,7 @@ $$x_6 = \dot{\theta}$$
 
 ### The Model
 
-<img src="https://github.com/sjellio1/sjellio1.github.io/blob/master/_assets/model.png">
+![useful image]({{https://github.com/sjellio1/sjellio1.github.io/blob/master}}/assets/model.png)
 
 ### Analysis
 
