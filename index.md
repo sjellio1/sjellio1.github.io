@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## MAE 598 Project
 
 You can use the [editor on GitHub](https://github.com/sjellio1/sjellio1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
