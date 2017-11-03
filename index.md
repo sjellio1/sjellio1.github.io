@@ -32,7 +32,7 @@ $$x_3 = \theta
 </div>
 
 <div>
-$$x_4 = \dot{x]
+$$x_4 = \dot{x}
 </div>
 
 <div>
