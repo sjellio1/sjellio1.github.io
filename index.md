@@ -31,13 +31,15 @@ $$x_4 = \dot{x}$$
 $$x_5 = \dot{y}$$
 
 $$x_6 = \dot{\theta}$$
-
+</div>
 
 
 
 ### The Model
 
-<img src="_assets/model.png" class="img-responsive" alt=""> </div>
+<div>
+<img src="_assets/model.png" class="img-responsive" alt="">
+</div>
 
 ### Analysis
 
