@@ -34,13 +34,16 @@ $$x_6 = \dot{\theta}$$
 </div>
 
 The neural network output consists of a 0-5 integer corresponding to 3 booleans (thrust, torque left, torque right).  The output is enumerated as follows:
+
 1. Input=0: No Thrust; No Torque
 2. Input=1: No Thrust; Torque Left
 3. Input=2: No Thrust; Torque Right
 4. Input=3: Thrust; No Torque
 5. Input=4: Thrust; Torque Left
 6. Input=5: Thrust; Torque Right
-	And so, the optimization problem became the following: optimize a neural network that can input the current rocket state and output a discrete frame control to most efficiently land the rocket at a designated landing position and state.  This objective would be achieved using a tensorflow1 Python API as well as a framework developed by Open AI Gym2.  The neural network, model, reward function, and analysis was left to be developed.  The framework for the neural network implementation and model feedback can be visualized in Figure 1.
+	
+
+And so, the optimization problem became the following: optimize a neural network that can input the current rocket state and output a discrete frame control to most efficiently land the rocket at a designated landing position and state.  This objective would be achieved using a tensorflow1 Python API as well as a framework developed by Open AI Gym2.  The neural network, model, reward function, and analysis was left to be developed.  The framework for the neural network implementation and model feedback can be visualized in Figure 1.
 
 ### The Model
 
