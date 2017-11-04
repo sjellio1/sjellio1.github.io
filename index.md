@@ -37,9 +37,7 @@ $$x_6 = \dot{\theta}$$
 
 ### The Model
 
-<div>
 <img src="_assets/model.png" class="img-responsive" alt="">
-</div>
 
 ### Analysis
 
